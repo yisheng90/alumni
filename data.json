@@ -1,23 +1,23 @@
 [
   {
-    "name": "jeremiah alexander",
     "batch": "0",
-    "github": "http://github.com/jeremiahalex",
-    "project-1": {
-      "github": "",
-      "deployed": ""
+    "githubLogin": "jeremiahalex",
+    "project1": {
+      "repoName": "project-1",
+      "deployedUrl": "http://jeremiah.sg"
     },
-    "project-2": {
-      "github": "",
-      "deployed": ""
+    "project2": {
+      "repoName": "project-2",
+      "deployedUrl": "http://jeremiah.sg"
     },
-    "project-3": {
-      "github": "",
-      "deployed": ""
+    "project3": {
+      "repoName": "project-3",
+      "deployedUrl": "http://jeremiah.sg",
+      "collaborators": ["nickangtc", "terencelimsayjian"]
     },
-    "project-4": {
-      "github": "",
-      "deployed": ""
+    "project4": {
+      "repoName": "project-4",
+      "deployedUrl": "http://jeremiah.sg"
     }
   }
 ]
