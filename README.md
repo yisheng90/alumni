@@ -47,7 +47,7 @@ Using the `githubLogin` and the `repoName` of the various projects, you will be 
 
 __Github API Examples__
 - `https://api.github.com/users/jeremiahalex` will return details about the user named __jeremiahalex__
-- 'https://api.github.com/repos/wdi-sg/peanuts-api' will return details about the repo named __peanuts-api__ owned by the user/org __wdi-sg__
+- `https://api.github.com/repos/wdi-sg/peanuts-api` will return details about the repo named __peanuts-api__ owned by the user/org __wdi-sg__
 - `https://api.github.com/repos/wdi-sg/peanuts-api/readme` will return the readme details for the above project. You'll probably want to grab the __download_url__ to get the raw file e.g. `https://raw.githubusercontent.com/wdi-sg/peanuts-api/master/README.md`
 - `https://api.github.com/repos/wdi-sg/peanuts-api/contents/index.js` will return the file details for the file __index.js__ in the project, again you probabaly want to grab the __download_url__ to get the raw file.
 
@@ -60,7 +60,7 @@ A user should be able to:
 
 ## Phase 2
 A user should be able to:
-- see a list of all projects based upon a project filter (e.g. project3), with a project image displayed (if present else the user's avatar)
+- see a list of all projects based upon a project filter (e.g. project3), with a project image displayed (if present else the user's avatar) - it should avoid duplicates for collaborative projects
 - click on a project to view the README file for the that project
 
 ## Phase 3
