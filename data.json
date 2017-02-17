@@ -4,7 +4,8 @@
     "githubLogin": "jeremiahalex",
     "project1": {
       "repoName": "project-1",
-      "deployedUrl": "http://jeremiah.sg"
+      "deployedUrl": "http://jeremiah.sg",
+      "previewImage": "http://some-cdn.link/image.gif"
     },
     "project2": {
       "repoName": "project-2",
