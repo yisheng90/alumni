@@ -55,7 +55,7 @@ __Github API Examples__
 ## Phase 1
 A user should be able to:
 - see a list of all WDI SG Alumni & Students, including name, avatar, bio, github link and blog link (if present)
- - _a card based display would be nice e.g. https://v4-alpha.getbootstrap.com/components/card/ _
+ - a card based display would be nice e.g. https://v4-alpha.getbootstrap.com/components/card/ 
 - click on a student to see a list of their individual projects including clickable links to the Github Repo & Deployed App for each
 
 ## Phase 2
