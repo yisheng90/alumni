@@ -77,23 +77,23 @@
     }
   },
   {
-    "batch": "7",
-    "githubLogin": "yisheng90",
-    "project1": {
-      "repoName": "GA-Project-1-The-Exploding-Kitten-",
-      "deployedUrl": "https://yisheng90.github.io/GA-Project-1-The-Exploding-Kitten-/",
-      "previewImage": "https://github.com/yisheng90/GA-Project-1-The-Exploding-Kitten-.git"
-    },
-    "project2": {
-      "repoName": "https://github.com/yisheng90/Kakis.git",
-      "deployedUrl": "https://kakis.herokuapp.com"
-    },
-    "project3": {
-      "repoName": "https://github.com/yisheng90/third-project.git",
-      "deployedUrl": "https://floating-retreat-48742.herokuapp.com/",
-      "collaborators": ["cavacado", "AndrewThian", "sharona1610"]
-    }
-  },
+   "batch": "7",
+   "githubLogin": "yisheng90",
+   "project1": {
+     "repoName": "GA-Project-1-The-Exploding-Kitten-",
+     "deployedUrl": "https://yisheng90.github.io/GA-Project-1-The-Exploding-Kitten-/",
+     "previewImage": "https://github.com/yisheng90/GA-Project-1-The-Exploding-Kitten-.git"
+   },
+   "project2": {
+     "repoName": "Kakis",
+     "deployedUrl": "https://kakis.herokuapp.com"
+   },
+   "project3": {
+     "repoName": "third-project",
+     "deployedUrl": "https://floating-retreat-48742.herokuapp.com/",
+     "collaborators": ["cavacado", "AndrewThian", "sharona1610"]
+   }
+ },
   {
     "batch": "7",
     "githubLogin": "wekkit",
@@ -242,6 +242,35 @@
       "repoName": "wdi7p3",
       "deployedUrl": "https://efinancialcounsellor.herokuapp.com/",
       "collaborators": ["stephanietan", "shanwan"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "EstherLow",
+    "project1": {
+      "repoName": "EstherLow.github.io",
+      "deployedUrl": "https://github.com/EstherLow/EstherLow.github.io"
+    },
+    "project2": {
+      "repoName": "project-2-starter",
+      "deployedUrl": "https://homeworkmanager.herokuapp.com/",
+    },
+    "project3": {
+      "repoName": "fleamarket",
+      "deployedUrl": "https://fleastarter.herokuapp.com",
+      "collaborators": ["Danial Harris", "Sharan Kaur"]
+    }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "danialhr",
+    "project1": {
+      "repoName": "goget",
+      "deployedUrl": "https://danialhr.github.io/goget/"
+    },
+    "project2": {
+      "repoName": "signoff",
+      "deployedUrl": "https://signoffdh.herokuapp.com",
     }
   }
 ]
