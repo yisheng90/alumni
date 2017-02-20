@@ -226,5 +226,22 @@
       "deployedUrl": "https://floating-retreat-48742.herokuapp.com/",
       "collaborators": ["cavacado", "AndrewThian", "sharona1610", "yisheng90"]
     }
+  },
+  {
+    "batch": "7",
+    "githubLogin": "AhGuGu",
+    "project1": {
+      "repoName": "WDI_project_1",
+      "deployedUrl": "",
+    },
+    "project2": {
+      "repoName": "WDI_project_2",
+      "deployedUrl": ""
+    },
+    "project3": {
+      "repoName": "wdi7p3",
+      "deployedUrl": "https://efinancialcounsellor.herokuapp.com/",
+      "collaborators": ["stephanietan", "shanwan"]
+    }
   }
 ]
