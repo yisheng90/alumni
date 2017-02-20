@@ -207,5 +207,26 @@
       "previewImage": "https://i.imgur.com/9MY4VFy.png",
       "collaborators": ["adrian", "keith","melvin"]
     }
+  },
+  {
+    {
+      "batch": "7",
+      "githubLogin": "sharona1610",
+      "project1": {
+        "repoName": "game",
+        "deployedUrl": "https://sharona1610.github.io/"
+        "previewImage": "http://gph.is/2l9xSfJ"
+      },
+      "project2": {
+        "repoName": "project-2-starter",
+        "deployedUrl": "https://buszwatch.herokuapp.com/",
+        "previewImage": "http://gph.is/2ljuhKm"
+      },
+      "project3": {
+        "repoName": "cavacado/third-project",
+        "deployedUrl": "https://floating-retreat-48742.herokuapp.com/",
+        "collaborators": ["cavacado", "AndrewThian", "sharona1610", "yisheng90"]
+      }
+    }
   }
 ]
