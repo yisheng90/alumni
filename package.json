@@ -1,0 +1,42 @@
+{
+  "name": "alumni",
+  "version": "1.0.0",
+  "description": "Your objective is to learn your chosen JavaScript frontend framework and use it to build a Single Page App (SPA) that connects to the Github API and displays a list of WDI SG alumni, students, and their projects. The requirements are given below.",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-react": "^6.23.0",
+    "html-webpack-plugin": "^2.28.0",
+    "marked": "^0.3.6",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-remarkable": "^1.1.1",
+    "react-router": "^3.0.2",
+    "remarkable": "^1.7.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-react": "^6.23.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "npm run build && npm run git-commit && npm run git-push",
+    "build": "webpack",
+    "start": "webpack-dev-server . --history-api-fallback"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yisheng90/alumni.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yisheng90/alumni/issues"
+  },
+  "homepage": "https://github.com/yisheng90/alumni#readme"
+}
